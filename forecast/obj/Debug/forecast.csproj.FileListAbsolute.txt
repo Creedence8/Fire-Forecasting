@@ -1,0 +1,9 @@
+c:\users\cole s' offe\documents\visual studio 2013\Projects\forecast\forecast\bin\Debug\forecast.exe.config
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\bin\Debug\forecast.exe
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\bin\Debug\forecast.pdb
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\obj\Debug\forecast.csprojResolveAssemblyReference.cache
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\obj\Debug\forecast.Form1.resources
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\obj\Debug\forecast.Properties.Resources.resources
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\obj\Debug\forecast.csproj.GenerateResource.Cache
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\obj\Debug\forecast.exe
+C:\Users\Cole S' Offe\Documents\Visual Studio 2013\Projects\forecast\forecast\obj\Debug\forecast.pdb
